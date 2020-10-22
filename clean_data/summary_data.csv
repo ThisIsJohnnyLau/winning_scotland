@@ -1,0 +1,1223 @@
+survey_id,survey_time,survey_set,question,answer,value
+1,pre,about_you,Please indicate your gender,Male,1
+1,pre,about_you,How many years have you been teaching?,<1 Year,1
+1,pre,about_you,What is your current awareness of the growth mindset?,Very aware,1
+1,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+1,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+2,pre,about_you,Please indicate your gender,Female,1
+2,pre,about_you,How many years have you been teaching?,<1 Year,1
+2,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+2,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+2,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+3,pre,about_you,Please indicate your gender,Female,1
+3,pre,about_you,How many years have you been teaching?,>15 years,1
+3,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+3,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+3,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+4,pre,about_you,Please indicate your gender,Female,1
+4,pre,about_you,How many years have you been teaching?,3-5 years,1
+4,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+4,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+4,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+5,pre,about_you,Please indicate your gender,Female,1
+5,pre,about_you,How many years have you been teaching?,6-8 years,1
+5,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+5,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+5,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+6,pre,about_you,Please indicate your gender,Female,1
+6,pre,about_you,How many years have you been teaching?,3-5 years,1
+6,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+6,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+6,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+7,pre,about_you,Please indicate your gender,Female,1
+7,pre,about_you,How many years have you been teaching?,6-8 years,1
+7,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+7,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+7,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Not a school priority,1
+8,pre,about_you,Please indicate your gender,Female,1
+8,pre,about_you,How many years have you been teaching?,12-15years,1
+8,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+8,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+8,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+9,pre,about_you,Please indicate your gender,Female,1
+9,pre,about_you,How many years have you been teaching?,3-5 years,1
+9,pre,about_you,What is your current awareness of the growth mindset?,Not at all aware,1
+9,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+9,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+10,pre,about_you,Please indicate your gender,Female,1
+10,pre,about_you,How many years have you been teaching?,6-8 years,1
+10,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+10,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+10,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+11,pre,about_you,Please indicate your gender,Female,1
+11,pre,about_you,How many years have you been teaching?,9-11 years,1
+11,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+11,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+11,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+12,pre,about_you,Please indicate your gender,Female,1
+12,pre,about_you,How many years have you been teaching?,12-15years,1
+12,pre,about_you,What is your current awareness of the growth mindset?,Not at all aware,1
+12,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+12,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Nothing,1
+13,pre,about_you,Please indicate your gender,Female,1
+13,pre,about_you,How many years have you been teaching?,3-5 years,1
+13,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+13,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+13,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of confidence,1
+14,pre,about_you,Please indicate your gender,Female,1
+14,pre,about_you,How many years have you been teaching?,6-8 years,1
+14,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+14,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+14,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+15,pre,about_you,Please indicate your gender,Female,1
+15,pre,about_you,How many years have you been teaching?,6-8 years,1
+15,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+15,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+15,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+16,pre,about_you,Please indicate your gender,Female,1
+16,pre,about_you,How many years have you been teaching?,9-11 years,1
+16,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+16,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+16,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+17,pre,about_you,Please indicate your gender,Female,1
+17,pre,about_you,How many years have you been teaching?,9-11 years,1
+17,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+17,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+17,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of confidence,1
+18,pre,about_you,Please indicate your gender,Female,1
+18,pre,about_you,How many years have you been teaching?,12-15years,1
+18,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+18,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+18,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of confidence,1
+19,pre,about_you,Please indicate your gender,Female,1
+19,pre,about_you,How many years have you been teaching?,12-15years,1
+19,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+19,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+19,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+20,pre,about_you,Please indicate your gender,Male,1
+20,pre,about_you,How many years have you been teaching?,6-8 years,1
+20,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+20,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, and there are no plans to",1
+20,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+21,pre,about_you,Please indicate your gender,Female,1
+21,pre,about_you,How many years have you been teaching?,12-15years,1
+21,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+21,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+21,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+22,pre,about_you,Please indicate your gender,Female,1
+22,pre,about_you,How many years have you been teaching?,>15 years,1
+22,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+22,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+22,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of confidence,1
+23,pre,about_you,Please indicate your gender,Female,1
+23,pre,about_you,How many years have you been teaching?,9-11 years,1
+23,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+23,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+23,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+24,pre,about_you,Please indicate your gender,Female,1
+24,pre,about_you,How many years have you been teaching?,9-11 years,1
+24,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+24,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+24,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+25,pre,about_you,Please indicate your gender,Female,1
+25,pre,about_you,How many years have you been teaching?,6-8 years,1
+25,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+25,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+25,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of confidence,1
+26,pre,about_you,Please indicate your gender,Female,1
+26,pre,about_you,How many years have you been teaching?,12-15years,1
+26,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+26,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+26,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+27,pre,about_you,Please indicate your gender,Female,1
+27,pre,about_you,How many years have you been teaching?,9-11 years,1
+27,pre,about_you,What is your current awareness of the growth mindset?,Aware,1
+27,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+27,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+28,pre,about_you,Please indicate your gender,Male,1
+28,pre,about_you,How many years have you been teaching?,3-5 years,1
+28,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+28,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+28,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of confidence,1
+29,pre,about_you,Please indicate your gender,Female,1
+29,pre,about_you,How many years have you been teaching?,9-11 years,1
+29,pre,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+29,pre,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+29,pre,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+1,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+1,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+1,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+1,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Agree,1
+1,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+1,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Agree,1
+1,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+1,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+1,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+1,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+1,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+1,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+1,pre,your_beliefs,"NA",Disagree,1
+2,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+2,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+2,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+2,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+2,pre,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+2,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+2,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+2,pre,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+2,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+2,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+2,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+2,pre,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+2,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+2,pre,your_beliefs,"NA",Strongly Disagree,1
+3,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+3,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+3,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+3,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+3,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+3,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+3,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+3,pre,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+3,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Strongly Disagree,1
+3,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+3,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+3,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+3,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+3,pre,your_beliefs,"NA",Strongly Disagree,1
+4,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+4,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,0
+4,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,0
+4,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,0
+4,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,0
+4,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,0
+4,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Agree,0
+4,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+4,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,0
+4,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,0
+4,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,0
+4,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,0
+4,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,0
+4,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Agree,0
+4,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Agree,1
+4,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Disagree,0
+4,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,0
+4,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,0
+4,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,0
+4,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,0
+4,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Agree,0
+4,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Agree,1
+4,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+4,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Agree,1
+4,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+4,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Agree,1
+4,pre,your_beliefs,Effort should be a major consideration when grading students,Strongly Disagree,0
+4,pre,your_beliefs,Effort should be a major consideration when grading students,Disagree,0
+4,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,0
+4,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,0
+4,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,0
+4,pre,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,0
+4,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+4,pre,your_beliefs,"NA",Strongly Disagree,0
+4,pre,your_beliefs,"NA",Disagree,0
+4,pre,your_beliefs,"NA",Somewhat Disagree,0
+4,pre,your_beliefs,"NA",Somewhat Agree,0
+4,pre,your_beliefs,"NA",Agree,0
+4,pre,your_beliefs,"NA",Strongly Agree,0
+5,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+5,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,0
+5,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,0
+5,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,0
+5,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,0
+5,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,0
+5,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Agree,0
+5,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Disagree,1
+5,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,0
+5,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,0
+5,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,0
+5,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,0
+5,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,0
+5,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Agree,0
+5,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+5,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Disagree,0
+5,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,0
+5,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,0
+5,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,0
+5,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,0
+5,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Agree,0
+5,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+5,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Agree,1
+5,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Agree,1
+5,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+5,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Agree,1
+5,pre,your_beliefs,Effort should be a major consideration when grading students,Strongly Disagree,0
+5,pre,your_beliefs,Effort should be a major consideration when grading students,Disagree,0
+5,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,0
+5,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,0
+5,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,0
+5,pre,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,0
+5,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Disagree,1
+5,pre,your_beliefs,"NA",Strongly Disagree,0
+5,pre,your_beliefs,"NA",Disagree,0
+5,pre,your_beliefs,"NA",Somewhat Disagree,0
+5,pre,your_beliefs,"NA",Somewhat Agree,0
+5,pre,your_beliefs,"NA",Agree,0
+5,pre,your_beliefs,"NA",Strongly Agree,0
+6,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+6,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+6,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+6,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+6,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+6,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+6,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Agree,1
+6,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Agree,1
+6,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Agree,1
+6,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+6,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+6,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,1
+6,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+6,pre,your_beliefs,"NA",Somewhat Agree,1
+7,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+7,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,1
+7,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+7,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+7,pre,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+7,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+7,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+7,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+7,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+7,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+7,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Agree,1
+7,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+7,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+7,pre,your_beliefs,"NA",Somewhat Disagree,1
+8,pre,your_beliefs,There is usually only one way to solve a maths problem,Strongly Agree,1
+8,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+8,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+8,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+8,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+8,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+8,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Disagree,1
+8,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Agree,1
+8,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+8,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+8,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+8,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,1
+8,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Disagree,1
+8,pre,your_beliefs,"NA",Somewhat Agree,1
+9,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+9,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+9,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+9,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+9,pre,your_beliefs,"In maths, answers are either right or wrong",Strongly Agree,1
+9,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,1
+9,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+9,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Agree,1
+9,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Agree,1
+9,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+9,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Agree,1
+9,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,1
+9,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+9,pre,your_beliefs,"NA",Somewhat Disagree,1
+10,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+10,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,1
+10,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Disagree,1
+10,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+10,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+10,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+10,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+10,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+10,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Agree,1
+10,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+10,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+10,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+10,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+10,pre,your_beliefs,"NA",Somewhat Disagree,1
+11,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+11,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+11,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+11,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+11,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Agree,1
+11,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+11,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+11,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+11,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Agree,1
+11,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+11,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+11,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+11,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Disagree,1
+11,pre,your_beliefs,"NA",Somewhat Agree,1
+12,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+12,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+12,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+12,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+12,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Agree,1
+12,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+12,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+12,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+12,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+12,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+12,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+12,pre,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+12,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+12,pre,your_beliefs,"NA",Disagree,1
+13,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+13,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+13,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Disagree,1
+13,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+13,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+13,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+13,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+13,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Agree,1
+13,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Agree,1
+13,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+13,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+13,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+13,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+13,pre,your_beliefs,"NA",Somewhat Agree,1
+14,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+14,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+14,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+14,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+14,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+14,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,1
+14,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Agree,1
+14,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+14,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Agree,1
+14,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+14,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+14,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+14,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+14,pre,your_beliefs,"NA",Somewhat Disagree,1
+15,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+15,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,1
+15,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+15,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+15,pre,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+15,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+15,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+15,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+15,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+15,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+15,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+15,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+15,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+15,pre,your_beliefs,"NA",Disagree,1
+16,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+16,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,1
+16,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+16,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+16,pre,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+16,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+16,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+16,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+16,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+16,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+16,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+16,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+16,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+16,pre,your_beliefs,"NA",Disagree,1
+17,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+17,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+17,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+17,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+17,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+17,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+17,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+17,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+17,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+17,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+17,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Agree,1
+17,pre,your_beliefs,Effort should be a major consideration when grading students,Disagree,1
+17,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+17,pre,your_beliefs,"NA",Disagree,1
+18,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+18,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+18,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+18,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+18,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+18,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+18,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Disagree,1
+18,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Agree,1
+18,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+18,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Agree,1
+18,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+18,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,1
+18,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+18,pre,your_beliefs,"NA",Somewhat Agree,1
+19,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+19,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,1
+19,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+19,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+19,pre,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+19,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+19,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+19,pre,your_beliefs,Some people have a knack for learning and some just don't,Agree,1
+19,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+19,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+19,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+19,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+19,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+19,pre,your_beliefs,"NA",Agree,1
+20,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+20,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+20,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+20,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+20,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+20,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,1
+20,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+20,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+20,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+20,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+20,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Agree,1
+20,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+20,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+20,pre,your_beliefs,"NA",Disagree,1
+21,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+21,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+21,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+21,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+21,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Agree,1
+21,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+21,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+21,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+21,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+21,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+21,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Agree,1
+21,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+21,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Disagree,1
+21,pre,your_beliefs,"NA",Disagree,1
+22,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+22,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+22,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+22,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+22,pre,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+22,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+22,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+22,pre,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+22,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+22,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+22,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+22,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+22,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+22,pre,your_beliefs,"NA",Disagree,1
+23,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+23,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+23,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+23,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,1
+23,pre,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+23,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+23,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+23,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+23,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Agree,1
+23,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+23,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Agree,1
+23,pre,your_beliefs,Effort should be a major consideration when grading students,Disagree,1
+23,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Disagree,1
+23,pre,your_beliefs,"NA",Disagree,1
+24,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+24,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+24,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+24,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,1
+24,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+24,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+24,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+24,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+24,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Agree,1
+24,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+24,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Agree,1
+24,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+24,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+24,pre,your_beliefs,"NA",Disagree,1
+25,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+25,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+25,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+25,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+25,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+25,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+25,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Agree,1
+25,pre,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Agree,1
+25,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+25,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+25,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+25,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+25,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Disagree,1
+25,pre,your_beliefs,"NA",Somewhat Agree,1
+26,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+26,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+26,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+26,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+26,pre,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+26,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+26,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Disagree,1
+26,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+26,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Agree,1
+26,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+26,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+26,pre,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+26,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+26,pre,your_beliefs,"NA",Agree,1
+27,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+27,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+27,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+27,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+27,pre,your_beliefs,"In maths, answers are either right or wrong",Agree,1
+27,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+27,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+27,pre,your_beliefs,Some people have a knack for learning and some just don't,Agree,1
+27,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+27,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+27,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Agree,1
+27,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,1
+27,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+27,pre,your_beliefs,"NA",Disagree,1
+28,pre,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+28,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+28,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+28,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+28,pre,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+28,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+28,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Somewhat Disagree,1
+28,pre,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+28,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+28,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+28,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+28,pre,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+28,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Disagree,1
+28,pre,your_beliefs,"NA",Strongly Disagree,1
+29,pre,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+29,pre,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,1
+29,pre,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+29,pre,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+29,pre,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+29,pre,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,1
+29,pre,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+29,pre,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+29,pre,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Agree,1
+29,pre,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Agree,1
+29,pre,your_beliefs,"In maths, you can be creative and discover things on your own",Agree,1
+29,pre,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+29,pre,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+29,pre,your_beliefs,"NA",Disagree,1
+1,post,about_you,How many years have you been teaching?,<1 Year,1
+1,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+1,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+1,post,about_you,Has this changed since your involvement with this course?,"No, but I know there are plans to",1
+1,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+2,post,about_you,Please indicate your gender,Female,1
+2,post,about_you,How many years have you been teaching?,<1 Year,1
+2,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+2,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+2,post,about_you,Has this changed since your involvement with this course?,"No, and there are no plans to",1
+2,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+3,post,about_you,Please indicate your gender,Female,1
+3,post,about_you,How many years have you been teaching?,>15 years,1
+3,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+3,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+3,post,about_you,Has this changed since your involvement with this course?,Yes,1
+3,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+4,post,about_you,Please indicate your gender,Female,1
+4,post,about_you,How many years have you been teaching?,3-5 years,1
+4,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+4,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+4,post,about_you,Has this changed since your involvement with this course?,I don't know,1
+4,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+5,post,about_you,Please indicate your gender,Female,1
+5,post,about_you,How many years have you been teaching?,6-8 years,1
+5,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+5,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+5,post,about_you,Has this changed since your involvement with this course?,Yes,1
+5,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+6,post,about_you,Please indicate your gender,Female,1
+6,post,about_you,How many years have you been teaching?,3-5 years,1
+6,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+6,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+6,post,about_you,Has this changed since your involvement with this course?,Yes,1
+6,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+7,post,about_you,Please indicate your gender,Female,1
+7,post,about_you,How many years have you been teaching?,6-8 years,1
+7,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+7,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+7,post,about_you,Has this changed since your involvement with this course?,I don't know,1
+7,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+8,post,about_you,Please indicate your gender,Female,1
+8,post,about_you,How many years have you been teaching?,12-15years,1
+8,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+8,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+8,post,about_you,Has this changed since your involvement with this course?,Yes,1
+8,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+9,post,about_you,How many years have you been teaching?,3-5 years,1
+9,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+9,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+9,post,about_you,Has this changed since your involvement with this course?,Yes,1
+9,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+10,post,about_you,How many years have you been teaching?,6-8 years,1
+10,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+10,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+10,post,about_you,Has this changed since your involvement with this course?,Yes,1
+10,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+11,post,about_you,How many years have you been teaching?,9-11 years,1
+11,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+11,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+11,post,about_you,Has this changed since your involvement with this course?,I don't know,1
+11,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of specific knowledge,1
+12,post,about_you,How many years have you been teaching?,12-15years,1
+12,post,about_you,What is your current awareness of the growth mindset?,Very aware,1
+12,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+12,post,about_you,Has this changed since your involvement with this course?,"No, and there are no plans to",1
+12,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Nothing,1
+13,post,about_you,Please indicate your gender,Female,1
+13,post,about_you,How many years have you been teaching?,3-5 years,1
+13,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+13,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+13,post,about_you,Has this changed since your involvement with this course?,Yes,1
+13,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+14,post,about_you,Please indicate your gender,Female,1
+14,post,about_you,How many years have you been teaching?,6-8 years,1
+14,post,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+14,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+14,post,about_you,Has this changed since your involvement with this course?,Yes,1
+15,post,about_you,Please indicate your gender,Female,1
+15,post,about_you,How many years have you been teaching?,6-8 years,1
+15,post,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+15,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+15,post,about_you,Has this changed since your involvement with this course?,Yes,1
+15,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+16,post,about_you,Please indicate your gender,Female,1
+16,post,about_you,How many years have you been teaching?,9-11 years,1
+16,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+16,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+16,post,about_you,Has this changed since your involvement with this course?,Yes,1
+16,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+17,post,about_you,Please indicate your gender,Female,1
+17,post,about_you,How many years have you been teaching?,9-11 years,1
+17,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+17,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+17,post,about_you,Has this changed since your involvement with this course?,Yes,1
+17,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+18,post,about_you,Please indicate your gender,Female,1
+18,post,about_you,How many years have you been teaching?,12-15years,1
+18,post,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+18,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+18,post,about_you,Has this changed since your involvement with this course?,I don't know,1
+18,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+19,post,about_you,Please indicate your gender,Female,1
+19,post,about_you,How many years have you been teaching?,12-15years,1
+19,post,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+19,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+19,post,about_you,Has this changed since your involvement with this course?,Yes,1
+19,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+20,post,about_you,Please indicate your gender,Male,1
+20,post,about_you,How many years have you been teaching?,6-8 years,1
+20,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+20,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, and there are no plans to",1
+20,post,about_you,Has this changed since your involvement with this course?,Yes,1
+20,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+21,post,about_you,Please indicate your gender,Female,1
+21,post,about_you,How many years have you been teaching?,12-15years,1
+21,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+21,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+21,post,about_you,Has this changed since your involvement with this course?,"No, and there are no plans to",1
+21,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+22,post,about_you,Please indicate your gender,Female,1
+22,post,about_you,How many years have you been teaching?,>15 years,1
+22,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+22,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+22,post,about_you,Has this changed since your involvement with this course?,"No, and there are no plans to",1
+22,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+23,post,about_you,Please indicate your gender,Female,1
+23,post,about_you,How many years have you been teaching?,9-11 years,1
+23,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+23,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+23,post,about_you,Has this changed since your involvement with this course?,Yes,1
+24,post,about_you,Please indicate your gender,Female,1
+24,post,about_you,How many years have you been teaching?,9-11 years,1
+24,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+24,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+24,post,about_you,Has this changed since your involvement with this course?,Yes,1
+24,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+25,post,about_you,Please indicate your gender,Female,1
+25,post,about_you,How many years have you been teaching?,6-8 years,1
+25,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+25,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",Yes,1
+25,post,about_you,Has this changed since your involvement with this course?,Yes,1
+25,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+26,post,about_you,Please indicate your gender,Female,1
+26,post,about_you,How many years have you been teaching?,12-15years,1
+26,post,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+26,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+26,post,about_you,Has this changed since your involvement with this course?,Yes,1
+27,post,about_you,Please indicate your gender,Female,1
+27,post,about_you,How many years have you been teaching?,9-11 years,1
+27,post,about_you,What is your current awareness of the growth mindset?,Aware,1
+27,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?","No, but I know there are plans to",1
+27,post,about_you,Has this changed since your involvement with this course?,Yes,1
+27,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+28,post,about_you,Please indicate your gender,Male,1
+28,post,about_you,How many years have you been teaching?,3-5 years,1
+28,post,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+28,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+28,post,about_you,Has this changed since your involvement with this course?,Yes,1
+28,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Time,1
+29,post,about_you,Please indicate your gender,Female,1
+29,post,about_you,How many years have you been teaching?,9-11 years,1
+29,post,about_you,What is your current awareness of the growth mindset?,Not very aware,1
+29,post,about_you,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",I don't know,1
+29,post,about_you,Has this changed since your involvement with this course?,Yes,1
+29,post,about_you,What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,Lack of staff engagement,1
+1,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+1,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+1,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+1,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+1,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+1,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+1,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+1,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+1,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+1,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+1,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+1,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+1,post,your_beliefs,"NA",Disagree,1
+2,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+2,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+2,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+2,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+2,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+2,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+2,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+2,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+2,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+2,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+2,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+2,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+2,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+2,post,your_beliefs,"NA",Disagree,1
+3,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+3,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+3,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+3,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+3,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+3,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+3,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+3,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+3,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+3,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+3,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+3,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+3,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+3,post,your_beliefs,"NA",Strongly Disagree,1
+4,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+4,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,0
+4,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,0
+4,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,0
+4,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,0
+4,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,0
+4,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Agree,0
+4,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+4,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,0
+4,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,0
+4,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,0
+4,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,0
+4,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,0
+4,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Agree,0
+4,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+4,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Disagree,0
+4,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,0
+4,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,0
+4,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,0
+4,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,0
+4,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Agree,0
+4,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+4,post,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+4,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Strongly Disagree,1
+4,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+4,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+4,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Disagree,0
+4,post,your_beliefs,Effort should be a major consideration when grading students,Disagree,0
+4,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,0
+4,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,0
+4,post,your_beliefs,Effort should be a major consideration when grading students,Agree,0
+4,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,0
+4,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+4,post,your_beliefs,"NA",Strongly Disagree,0
+4,post,your_beliefs,"NA",Disagree,0
+4,post,your_beliefs,"NA",Somewhat Disagree,0
+4,post,your_beliefs,"NA",Somewhat Agree,0
+4,post,your_beliefs,"NA",Agree,0
+4,post,your_beliefs,"NA",Strongly Agree,0
+5,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+5,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,0
+5,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,0
+5,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,0
+5,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Agree,0
+5,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Agree,0
+5,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Agree,0
+5,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+5,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,0
+5,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,0
+5,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,0
+5,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Agree,0
+5,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Agree,0
+5,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Agree,0
+5,post,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+5,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Disagree,0
+5,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,0
+5,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,0
+5,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,0
+5,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Agree,0
+5,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Agree,0
+5,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+5,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+5,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+5,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+5,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+5,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Disagree,0
+5,post,your_beliefs,Effort should be a major consideration when grading students,Disagree,0
+5,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Disagree,0
+5,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,0
+5,post,your_beliefs,Effort should be a major consideration when grading students,Agree,0
+5,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,0
+5,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+5,post,your_beliefs,"NA",Strongly Disagree,0
+5,post,your_beliefs,"NA",Disagree,0
+5,post,your_beliefs,"NA",Somewhat Disagree,0
+5,post,your_beliefs,"NA",Somewhat Agree,0
+5,post,your_beliefs,"NA",Agree,0
+5,post,your_beliefs,"NA",Strongly Agree,0
+6,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+6,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+6,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+6,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+6,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+6,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+6,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+6,post,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+6,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+6,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+6,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+6,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+6,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+6,post,your_beliefs,"NA",Strongly Disagree,1
+7,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+7,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+7,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+7,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+7,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+7,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+7,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+7,post,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+7,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+7,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+7,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+7,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+7,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+7,post,your_beliefs,"NA",Strongly Disagree,1
+8,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+8,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+8,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+8,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,1
+8,post,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+8,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+8,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+8,post,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+8,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+8,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+8,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+8,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+8,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+8,post,your_beliefs,"NA",Disagree,1
+9,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+9,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+9,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+9,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+9,post,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+9,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+9,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+9,post,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+9,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+9,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+9,post,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+9,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+9,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+9,post,your_beliefs,"NA",Disagree,1
+10,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+10,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+10,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+10,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+10,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+10,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+10,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+10,post,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+10,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+10,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+10,post,your_beliefs,"In maths, you can be creative and discover things on your own",Somewhat Disagree,1
+10,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+10,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+10,post,your_beliefs,"NA",Disagree,1
+11,post,your_beliefs,There is usually only one way to solve a maths problem,Disagree,1
+11,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+11,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+11,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+11,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+11,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Disagree,1
+11,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+11,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+11,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+11,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+11,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+11,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+11,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+11,post,your_beliefs,"NA",Disagree,1
+12,post,your_beliefs,There is usually only one way to solve a maths problem,Disagree,1
+12,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+12,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+12,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+12,post,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+12,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Disagree,1
+12,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+12,post,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+12,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Strongly Disagree,1
+12,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+12,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+12,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+12,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+12,post,your_beliefs,"NA",Strongly Disagree,1
+13,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+13,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+13,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+13,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+13,post,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+13,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+13,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+13,post,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+13,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+13,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+13,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+13,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+13,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+13,post,your_beliefs,"NA",Strongly Disagree,1
+14,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+14,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+14,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+14,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+14,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+14,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+14,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+14,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+14,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+14,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+14,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+14,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+14,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+14,post,your_beliefs,"NA",Disagree,1
+15,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+15,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+15,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+15,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+15,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+15,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+15,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+15,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+15,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+15,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+15,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+15,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+15,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+15,post,your_beliefs,"NA",Somewhat Disagree,1
+16,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+16,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+16,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+16,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,1
+16,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+16,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+16,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+16,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+16,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Strongly Disagree,1
+16,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+16,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+16,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+16,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+16,post,your_beliefs,"NA",Disagree,1
+17,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+17,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+17,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+17,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+17,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+17,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+17,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+17,post,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+17,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+17,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+17,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+17,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+17,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+17,post,your_beliefs,"NA",Disagree,1
+18,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+18,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+18,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+18,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+18,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+18,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+18,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+18,post,your_beliefs,Some people have a knack for learning and some just don't,Somewhat Disagree,1
+18,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Strongly Disagree,1
+18,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+18,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+18,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+18,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+18,post,your_beliefs,"NA",Disagree,1
+19,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+19,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+19,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+19,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+19,post,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+19,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Strongly Disagree,1
+19,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+19,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+19,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+19,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+19,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+19,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+19,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+19,post,your_beliefs,"NA",Disagree,1
+20,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+20,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+20,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Strongly Agree,1
+20,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+20,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+20,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Agree,1
+20,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+20,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+20,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+20,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+20,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+20,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+20,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Somewhat Agree,1
+20,post,your_beliefs,"NA",Strongly Disagree,1
+21,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+21,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+21,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+21,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+21,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+21,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+21,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+21,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+21,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+21,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+21,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+21,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+21,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+21,post,your_beliefs,"NA",Disagree,1
+22,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+22,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+22,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+22,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,1
+22,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+22,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+22,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+22,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+22,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+22,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+22,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+22,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+22,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+22,post,your_beliefs,"NA",Somewhat Disagree,1
+23,post,your_beliefs,There is usually only one way to solve a maths problem,Agree,1
+23,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+23,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Disagree,1
+23,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+23,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Somewhat Disagree,1
+23,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+23,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+23,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+23,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+23,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Strongly Disagree,1
+23,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+23,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+23,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+23,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Strongly Agree,1
+23,post,your_beliefs,"NA",Disagree,1
+24,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Agree,1
+24,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+24,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+24,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Strongly Disagree,1
+24,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Agree,1
+24,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+24,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+24,post,your_beliefs,Some people have a knack for learning and some just don't,Strongly Disagree,1
+24,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Somewhat Disagree,1
+24,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+24,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+24,post,your_beliefs,Effort should be a major consideration when grading students,Somewhat Agree,1
+24,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+24,post,your_beliefs,"NA",Disagree,1
+25,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+25,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+25,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+25,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+25,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+25,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+25,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+25,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+25,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+25,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+25,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+25,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+25,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+25,post,your_beliefs,"NA",Strongly Disagree,1
+26,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+26,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+26,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Somewhat Agree,1
+26,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+26,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+26,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+26,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Strongly Agree,1
+26,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+26,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+26,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+26,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+26,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+26,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+26,post,your_beliefs,"NA",Disagree,1
+27,post,your_beliefs,There is usually only one way to solve a maths problem,Disagree,1
+27,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Disagree,1
+27,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+27,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+27,post,your_beliefs,"In maths, answers are either right or wrong",Somewhat Disagree,1
+27,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+27,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+27,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+27,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+27,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Disagree,1
+27,post,your_beliefs,"In maths, you can be creative and discover things on your own",Strongly Disagree,1
+27,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+27,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+27,post,your_beliefs,"NA",Disagree,1
+28,post,your_beliefs,There is usually only one way to solve a maths problem,Disagree,1
+28,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Somewhat Disagree,1
+28,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+28,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+28,post,your_beliefs,"In maths, answers are either right or wrong",Strongly Disagree,1
+28,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Somewhat Disagree,1
+28,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+28,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+28,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Strongly Disagree,1
+28,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+28,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+28,post,your_beliefs,Effort should be a major consideration when grading students,Strongly Agree,1
+28,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+28,post,your_beliefs,"NA",Somewhat Disagree,1
+29,post,your_beliefs,There is usually only one way to solve a maths problem,Somewhat Disagree,1
+29,post,your_beliefs,All of my students would improve their intelligence if they worked hard at it,Strongly Disagree,1
+29,post,your_beliefs,Maths involves mostly facts and procedures that have to be learned,Agree,1
+29,post,your_beliefs,"There will always be some students who simply won't ""get it"" no matter what I do",Disagree,1
+29,post,your_beliefs,"In maths, answers are either right or wrong",Disagree,1
+29,post,your_beliefs,Discussing students' errors with the class is a good strategy for enhancing students' understanding,Disagree,1
+29,post,your_beliefs,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Agree,1
+29,post,your_beliefs,Some people have a knack for learning and some just don't,Disagree,1
+29,post,your_beliefs,Students who finish their work quickly understand the material better than students who take longer,Disagree,1
+29,post,your_beliefs,I can improve my skills but I can't change my basic level of ability,Somewhat Disagree,1
+29,post,your_beliefs,"In maths, you can be creative and discover things on your own",Disagree,1
+29,post,your_beliefs,Effort should be a major consideration when grading students,Agree,1
+29,post,your_beliefs,Mathematical ability is something that remains relatively fixed throughout a person's life,Agree,1
+29,post,your_beliefs,"NA",Disagree,1
