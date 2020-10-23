@@ -1,4 +1,52 @@
 ```{r}
-read_csv(here("clean_data/summary_data.csv"))
+
+library(tidyverse) 
+library(readxl)
+library(here)
+library(zoo)
+
+summary <- read_csv(here("clean_data/summary_data.csv"))
+```
+
+```{r}
+summary %>% 
+    filter(survey_set == "about_you",
+           question == "Please indicate your gender",
+           answer == "Male") %>%
+    summarise(total_male = sum(value))
+```
+
+```{r}
+summary %>% 
+    filter(survey_set == "about_you") %>%
+    group_by(survey_time, question, answer) %>% 
+    summarise(responses = sum(value)) %>% 
+    arrange(desc(survey_time))
+```
+
+```{r}
+# Gender
+summary %>% 
+    filter(survey_set == "about_you") %>%
+    group_by(survey_time, question, answer) %>% 
+    summarise(responses = sum(value)) %>% 
+    arrange(desc(survey_time)) %>% 
+    filter(question == "Please indicate your gender")
+```
+
+```{r}
+summary %>% 
+    filter(survey_set == "about_you") %>%
+    group_by(survey_time, question, answer) %>% 
+    summarise(responses = sum(value)) %>% 
+    arrange(desc(survey_time)) %>% 
+    ungroup() %>% 
+    filter(question == "Please indicate your gender" )
+    
+```
+
+```{r}
+summary %>%
+   distinct(question)
 ```
 

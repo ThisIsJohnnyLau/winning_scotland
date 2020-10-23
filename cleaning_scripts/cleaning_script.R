@@ -89,7 +89,7 @@ names(responses_3) <- paste(names(responses_3), responses_3[1, ], sep = "_")
 
 tidy_data_3 <- responses_3 %>% 
     slice(-1) %>% 
-    rowid_to_column( "survey_id") %>%
+    rowid_to_column("survey_id") %>%
     pivot_longer(
         cols = -survey_id,
         names_to = c("question", "answer"),
@@ -121,7 +121,7 @@ names(responses_4) <- paste(names(responses_4), responses_4[1, ], sep = "_")
 
 tidy_data_4 <- responses_4 %>% 
     slice(-1) %>% 
-    rowid_to_column( "survey_id") %>%
+    rowid_to_column("survey_id") %>%
     pivot_longer(
         cols = -survey_id,
         names_to = c("question", "answer"),
