@@ -1,0 +1,69 @@
+survey_id,survey_time,survey_set,Please indicate your gender,How many years have you been teaching?,What is your current awareness of the growth mindset?,"From the school(s) you are involved with, is growth mindset mentioned in the school improvement plan?",What main reason has prevented you from implementing agrowth mindset culture in your school / teaching?,All of my students would improve their intelligence if they worked hard at it,Maths involves mostly facts and procedures that have to be learned,"There will always be some students who simply won't ""get it"" no matter what I do","In maths, answers are either right or wrong",Discussing students' errors with the class is a good strategy for enhancing students' understanding,Intelligence is something that people have a certain amount of and there isn't much they can do to change it,Some people have a knack for learning and some just don't,Students who finish their work quickly understand the material better than students who take longer,I can improve my skills but I can't change my basic level of ability,"In maths, you can be creative and discover things on your own",Effort should be a major consideration when grading students,Mathematical ability is something that remains relatively fixed throughout a person's life,"NA",There is usually only one way to solve a maths problem
+1,pre,about_you,Male,<1 Year,Very aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,pre,about_you,Female,<1 Year,Aware,Yes,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,pre,about_you,Female,>15 years,Aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,pre,about_you,Female,3-5 years,Not very aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,pre,about_you,Female,6-8 years,Not very aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,pre,about_you,Female,3-5 years,Not very aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,pre,about_you,Female,6-8 years,Not very aware,I don't know,Not a school priority,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,pre,about_you,Female,12-15years,Not very aware,I don't know,Time,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,pre,about_you,Female,3-5 years,Not at all aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,pre,about_you,Female,6-8 years,Not very aware,"No, but I know there are plans to",Time,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,pre,about_you,Female,9-11 years,Not very aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,pre,about_you,Female,12-15years,Not at all aware,Yes,Nothing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,pre,about_you,Female,3-5 years,Aware,Yes,Lack of confidence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,pre,about_you,Female,6-8 years,Not very aware,I don't know,Time,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,pre,about_you,Female,6-8 years,Not very aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,pre,about_you,Female,9-11 years,Aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,pre,about_you,Female,9-11 years,Aware,I don't know,Lack of confidence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,pre,about_you,Female,12-15years,Not very aware,I don't know,Lack of confidence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,pre,about_you,Female,12-15years,Not very aware,"No, but I know there are plans to",Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,pre,about_you,Male,6-8 years,Aware,"No, and there are no plans to",Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,pre,about_you,Female,12-15years,Aware,Yes,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,pre,about_you,Female,>15 years,Aware,"No, but I know there are plans to",Lack of confidence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,pre,about_you,Female,9-11 years,Aware,I don't know,Time,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,pre,about_you,Female,9-11 years,Aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,pre,about_you,Female,6-8 years,Aware,Yes,Lack of confidence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,pre,about_you,Female,12-15years,Not very aware,I don't know,Time,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,pre,about_you,Female,9-11 years,Aware,"No, but I know there are plans to",Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,pre,about_you,Male,3-5 years,Not very aware,I don't know,Lack of confidence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,pre,about_you,Female,9-11 years,Not very aware,I don't know,Lack of specific knowledge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Agree,Somewhat Agree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Disagree,Disagree,Disagree,Disagree,Agree,Agree,Disagree,NA
+2,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Somewhat Agree,Somewhat Agree,Strongly Disagree,Somewhat Agree,Agree,Strongly Disagree,Somewhat Disagree,Somewhat Agree,Strongly Disagree,Strongly Agree,Agree,Strongly Disagree,Agree
+3,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Somewhat Disagree,Somewhat Disagree,Agree,Somewhat Disagree,Agree,Strongly Disagree,Strongly Disagree,Disagree,Strongly Disagree,Agree,Agree,Strongly Disagree,Somewhat Agree
+4,pre,your_beliefs,NA,NA,NA,NA,NA,Strongly Disagree,Somewhat Disagree,Strongly Disagree,Somewhat Agree,Strongly Disagree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Strongly Disagree,Somewhat Agree,Strongly Disagree,Agree
+4,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Somewhat Disagree,Disagree,Somewhat Agree,Disagree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Disagree,Somewhat Agree,Disagree,Agree
+4,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Agree
+4,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Agree
+4,pre,your_beliefs,NA,NA,NA,NA,NA,Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Agree,Somewhat Agree,Agree,Agree
+4,pre,your_beliefs,NA,NA,NA,NA,NA,Strongly Agree,Somewhat Disagree,Strongly Agree,Somewhat Agree,Strongly Agree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Strongly Agree,Somewhat Agree,Strongly Agree,Agree
+5,pre,your_beliefs,NA,NA,NA,NA,NA,Strongly Disagree,Disagree,Strongly Disagree,Agree,Strongly Disagree,Somewhat Disagree,Somewhat Agree,Agree,Disagree,Somewhat Agree,Strongly Disagree,Disagree,Strongly Disagree,Somewhat Agree
+5,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Disagree,Disagree,Agree,Disagree,Somewhat Disagree,Somewhat Agree,Agree,Disagree,Somewhat Agree,Disagree,Disagree,Disagree,Somewhat Agree
+5,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Disagree,Somewhat Disagree,Agree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Agree,Disagree,Somewhat Agree,Somewhat Disagree,Disagree,Somewhat Disagree,Somewhat Agree
+5,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Disagree,Somewhat Agree,Agree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Agree,Disagree,Somewhat Agree,Somewhat Agree,Disagree,Somewhat Agree,Somewhat Agree
+5,pre,your_beliefs,NA,NA,NA,NA,NA,Agree,Disagree,Agree,Agree,Agree,Somewhat Disagree,Somewhat Agree,Agree,Disagree,Somewhat Agree,Agree,Disagree,Agree,Somewhat Agree
+5,pre,your_beliefs,NA,NA,NA,NA,NA,Strongly Agree,Disagree,Strongly Agree,Agree,Strongly Agree,Somewhat Disagree,Somewhat Agree,Agree,Disagree,Somewhat Agree,Strongly Agree,Disagree,Strongly Agree,Somewhat Agree
+6,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Somewhat Agree,Somewhat Agree,Somewhat Disagree,Disagree,Somewhat Agree,Somewhat Agree,Agree,Somewhat Disagree,Somewhat Disagree,Somewhat Disagree,Strongly Agree,Somewhat Agree,Agree
+7,pre,your_beliefs,NA,NA,NA,NA,NA,Agree,Agree,Agree,Disagree,Somewhat Disagree,Somewhat Disagree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Somewhat Disagree,Somewhat Agree
+8,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Agree,Somewhat Agree,Agree,Somewhat Agree,Disagree,Somewhat Agree,Disagree,Disagree,Somewhat Disagree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Strongly Agree
+9,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Strongly Agree,Agree,Somewhat Disagree,Somewhat Agree,Agree,Somewhat Agree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Disagree
+10,pre,your_beliefs,NA,NA,NA,NA,NA,Agree,Disagree,Agree,Agree,Somewhat Agree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Disagree,Agree,Somewhat Agree,Somewhat Disagree,Somewhat Agree
+11,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Agree,Agree,Somewhat Agree,Somewhat Agree,Agree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Agree
+12,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Agree,Agree,Somewhat Agree,Disagree,Strongly Agree,Disagree,Disagree,Somewhat Disagree,Strongly Disagree,Strongly Agree,Agree,Disagree,Somewhat Agree
+13,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Disagree,Somewhat Agree,Agree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Disagree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Agree
+14,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Agree,Agree,Somewhat Disagree,Agree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Agree,Disagree,Agree,Agree,Somewhat Disagree,Agree
+15,pre,your_beliefs,NA,NA,NA,NA,NA,Agree,Agree,Agree,Disagree,Somewhat Disagree,Agree,Disagree,Somewhat Disagree,Somewhat Agree,Disagree,Agree,Agree,Disagree,Somewhat Agree
+16,pre,your_beliefs,NA,NA,NA,NA,NA,Agree,Agree,Somewhat Agree,Disagree,Disagree,Agree,Disagree,Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Somewhat Agree,Disagree,Agree
+17,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Somewhat Agree,Agree,Somewhat Disagree,Disagree,Agree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Agree,Disagree,Somewhat Agree,Disagree,Agree
+18,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Agree,Agree,Agree,Somewhat Disagree,Disagree,Somewhat Agree,Disagree,Agree,Disagree,Somewhat Disagree,Agree,Somewhat Agree,Somewhat Agree
+19,pre,your_beliefs,NA,NA,NA,NA,NA,Agree,Somewhat Disagree,Agree,Strongly Disagree,Somewhat Disagree,Somewhat Disagree,Agree,Disagree,Somewhat Disagree,Strongly Disagree,Somewhat Agree,Agree,Agree,Somewhat Agree
+20,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Somewhat Agree,Agree,Somewhat Disagree,Agree,Agree,Disagree,Disagree,Somewhat Agree,Somewhat Agree,Agree,Strongly Agree,Disagree,Somewhat Agree
+21,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Agree,Disagree,Somewhat Agree,Somewhat Agree,Agree,Disagree,Disagree,Somewhat Agree,Agree,Agree,Somewhat Disagree,Disagree,Somewhat Agree
+22,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Agree,Somewhat Disagree,Disagree,Somewhat Disagree,Agree,Strongly Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Somewhat Agree,Disagree,Agree
+23,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Disagree,Disagree,Agree,Somewhat Disagree,Somewhat Agree,Disagree,Somewhat Agree,Disagree,Disagree,Disagree,Agree
+24,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Somewhat Disagree,Agree,Agree,Somewhat Agree,Agree,Disagree,Agree,Somewhat Disagree,Agree,Somewhat Agree,Agree,Disagree,Agree
+25,pre,your_beliefs,NA,NA,NA,NA,NA,Strongly Disagree,Strongly Agree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Agree,Somewhat Agree,Disagree,Somewhat Agree,Somewhat Disagree,Agree,Somewhat Disagree,Somewhat Agree,Somewhat Agree
+26,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Somewhat Agree,Disagree,Somewhat Disagree,Somewhat Disagree,Disagree,Disagree,Somewhat Agree,Somewhat Agree,Disagree,Strongly Agree,Agree,Agree,Somewhat Agree
+27,pre,your_beliefs,NA,NA,NA,NA,NA,Disagree,Somewhat Disagree,Disagree,Agree,Disagree,Somewhat Disagree,Agree,Somewhat Disagree,Somewhat Disagree,Somewhat Agree,Somewhat Disagree,Agree,Disagree,Somewhat Disagree
+28,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Disagree,Strongly Agree,Somewhat Disagree,Disagree,Somewhat Disagree,Somewhat Disagree,Disagree,Disagree,Somewhat Agree,Somewhat Disagree,Somewhat Agree,Disagree,Strongly Disagree,Agree
+29,pre,your_beliefs,NA,NA,NA,NA,NA,Somewhat Agree,Somewhat Agree,Disagree,Strongly Disagree,Agree,Agree,Strongly Disagree,Agree,Somewhat Agree,Agree,Agree,Somewhat Agree,Disagree,Somewhat Disagree
