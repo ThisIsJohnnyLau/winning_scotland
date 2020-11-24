@@ -73,7 +73,7 @@ tidy_data_2<- responses_2 %>%
         values_drop_na = TRUE
     ) %>% 
     mutate(survey_time = "pre",
-           survey_set = "you_beliefs") %>%
+           survey_set = "your_beliefs") %>%
     relocate(c(survey_time, survey_set), .after = survey_id) %>% 
     filter(value == 1) %>% 
     select(-value) %>% 
@@ -118,7 +118,7 @@ tidy_data_3 <- responses_3 %>%
 ##########4#############
 
 responses_4 <- read_xlsx("raw_data/Reaesrch project - questionnaire responses (anon).xlsx",
-                         sheet = "Pre Section 2 (Your beliefs)",
+                         sheet = "Post Section 2 (Your beliefs)",
                          col_names = TRUE) %>% 
     select(-1) %>% 
     head(-1) %>% 
@@ -145,7 +145,7 @@ tidy_data_4<- responses_4 %>%
         values_drop_na = TRUE
     ) %>% 
     mutate(survey_time = "post",
-           survey_set = "you_beliefs") %>%
+           survey_set = "your_beliefs") %>%
     relocate(c(survey_time, survey_set), .after = survey_id) %>% 
     filter(value == 1) %>% 
     select(-value)
