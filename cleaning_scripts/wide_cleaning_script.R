@@ -16,7 +16,7 @@ responses_1 <- read_xlsx("raw_data/Reaesrch project - questionnaire responses (a
     head(-1)
 
 
-colnames(responses_1)[str_detect(colnames(responses_1),"[...]")] <- NA
+colnames(responses_1)[str_detect(colnames(responses_1),"\\.\\.\\.")] <- NA
 
 colnames(responses_1) <- colnames(responses_1) %>% 
     zoo::na.locf(na.rm = FALSE) 
@@ -50,11 +50,10 @@ responses_2 <- read_xlsx("raw_data/Reaesrch project - questionnaire responses (a
                         sheet = "Pre Section 2 (Your beliefs)",
                         col_names = TRUE) %>% 
     select(-1) %>% 
-    head(-1) %>%
-    view()
+    head(-1)
 
 
-colnames(responses_2)[str_detect(colnames(responses_2),"[...]")] <- NA
+colnames(responses_2)[str_detect(colnames(responses_2),"\\.\\.\\.")] <- NA
 
 colnames(responses_2) <- colnames(responses_2) %>% 
     zoo::na.locf(na.rm = FALSE) 
@@ -90,7 +89,7 @@ responses_3 <- read_xlsx("raw_data/Reaesrch project - questionnaire responses (a
     head(-1)
 
 
-colnames(responses_3)[str_detect(colnames(responses_3),"[...]")] <- NA
+colnames(responses_3)[str_detect(colnames(responses_3),"\\.\\.\\.")] <- NA
 
 colnames(responses_3) <- colnames(responses_3) %>% 
     zoo::na.locf(na.rm = FALSE) 
@@ -126,7 +125,7 @@ responses_4 <- read_xlsx("raw_data/Reaesrch project - questionnaire responses (a
     view()
 
 
-colnames(responses_4)[str_detect(colnames(responses_4),"[...]")] <- NA
+colnames(responses_4)[str_detect(colnames(responses_4),"\\.\\.\\.")] <- NA
 
 colnames(responses_4) <- colnames(responses_4) %>% 
     zoo::na.locf(na.rm = FALSE) 
