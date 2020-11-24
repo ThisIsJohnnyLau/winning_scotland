@@ -157,7 +157,6 @@ rbind(tidy_data_1, tidy_data_2, tidy_data_3, tidy_data_4) %>%
     # view() %>% 
         pivot_wider(names_from = question, values_from = answer) %>% 
     unnest(-survey_id:-survey_set) %>% 
-    view()
     write_csv("clean_data/summary_data_wide.csv")
     
 # test_1 <-tidy_data_1 %>% 
